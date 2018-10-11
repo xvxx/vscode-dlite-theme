@@ -1,0 +1,22 @@
+{
+    "name": "dlite-theme",
+    "displayName": "dlite-theme",
+    "description": "dvkt's lite theme",
+    "version": "0.0.1",
+    "publisher": "dvkt",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dlite",
+                "uiTheme": "vs",
+                "path": "./themes/dlite-color-theme.json"
+            }
+        ]
+    }
+}
