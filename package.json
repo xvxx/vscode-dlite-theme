@@ -2,7 +2,7 @@
     "name": "dlite-theme",
     "displayName": "dlite-theme",
     "description": "dvkt's lite theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "dvkt",
     "engines": {
         "vscode": "^1.28.0"
