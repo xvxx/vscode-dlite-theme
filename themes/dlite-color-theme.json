@@ -22,7 +22,7 @@
 		"statusBar.debuggingForeground": "#24292e",
 		"activityBar.background": "#24292e",
 		"activityBar.foreground": "#fafbfc",
-		"activityBarBadge.background": "#54a3ff",
+		"activityBarBadge.background": "#ff00ea",
 		"sideBar.background": "#fafbfc",
 		"sideBar.foreground": "#586069",
 		"sideBar.border": "#e1e4e8",
