@@ -4,6 +4,8 @@
     "description": "dvkt's lite theme",
     "version": "0.0.2",
     "publisher": "dvkt",
+    "repository": "https://github.com/dvkt/vscode-dlite-theme",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
