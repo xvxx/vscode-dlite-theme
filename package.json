@@ -2,7 +2,7 @@
     "name": "dlite-theme",
     "displayName": "dlite-theme",
     "description": "dvkt's lite theme",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "dvkt",
     "repository": "https://github.com/dvkt/vscode-dlite-theme",
     "icon": "icon.png",
