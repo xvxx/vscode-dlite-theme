@@ -16,11 +16,6 @@
                 "label": "dlite",
                 "uiTheme": "vs",
                 "path": "./themes/dlite-color-theme.json"
-            },
-            {
-                "label": "tenacious d",
-                "uiTheme": "vs",
-                "path": "./themes/tenacious-d-color-theme.json"
             }
         ]
     }
