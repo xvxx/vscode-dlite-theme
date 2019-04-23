@@ -29,6 +29,8 @@
 		"sideBarTitle.foreground": "#24292e",
 		"sideBarSectionHeader.background": "#F1F2F3",
 		"sideBarSectionHeader.foreground": "#24292e",
+		"list.activeSelectionBackground": "#fffbdd",
+		"list.activeSelectionForeground": "#24292e",
 		"notification.background": "#54a3ff",
 		"editorGroupHeader.tabsBackground": "#fafbfc",
 		"editorGroupHeader.tabsBorder": "#e1e4e8",
