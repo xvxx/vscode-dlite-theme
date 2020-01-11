@@ -1,10 +1,10 @@
 {
     "name": "dlite-theme",
     "displayName": "dlite-theme",
-    "description": "dvkt's lite theme",
+    "description": "xvxx's lite theme",
     "version": "0.1.2",
-    "publisher": "dvkt",
-    "repository": "https://github.com/dvkt/vscode-dlite-theme",
+    "publisher": "xvxx",
+    "repository": "https://github.com/xvxx/vscode-dlite-theme",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
